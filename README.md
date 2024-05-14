@@ -29,9 +29,9 @@ make ejecutar
 1.**Introducir palabras**: 
 Se le agrega la primera palabra la cual sera la que transformaremos.
 
-De ahi agregamos la siguiente palabra a la que que queremos llegar.
+De ahi agregamos la siguiente palabra a la que queremos llegar.
 
-El programa devuelve la diostancia minima entre las dos
+El programa devuelve la distancia minima entre las dos.
 
 ## Contribuciones
 
